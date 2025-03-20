@@ -23,5 +23,5 @@
 
 ## 📫 Contact
 - **Email:** afakhareldin@gmail.com
-- **LinkedIn:** [Your LinkedIn URL]
+- **LinkedIn:** https://www.linkedin.com/in/fakhareldinabakar/
 - **GitHub:** [https://github.com/wadshatta](https://github.com/wadshatta)
